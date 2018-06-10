@@ -42,7 +42,7 @@ if (!($this->session->userdata('loggedin'))) {
 
 
 
- <div class="col-lg-9" style="background-color: #white;height:100%; margin-left:8px;width: 918px;margin-bottom: 30px">
+ <div class="col-lg-9" style="background-color: #ffffff;height:100%; margin-left:8px;width: 918px;margin-bottom: 30px">
 
 
 
