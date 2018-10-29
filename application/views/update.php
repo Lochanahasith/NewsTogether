@@ -101,7 +101,7 @@ foreach ($array as $district) {
 
 
     <div id='btn'>
-    <input type='submit' class='btn btn-warning' value='Update' id='btn' >
+    <input type='submit' class='btn btn-info' value='Update' id='btn' >
 
 
     <form method='GET' onsubmit="return confirm('Deleting a News Item is irreversible. Do you want to proceed?');" action='<?php echo site_url("/home/delete_news/$row[news_id]") ?>'>
